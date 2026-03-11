@@ -48,10 +48,10 @@ export default function Hero() {
         loop
         muted
         playsInline
-        poster="/Vedio/HeroMobile.png"
+        poster="https://icons.exarpro.com/Vedio/HeroMobile.png"
         className="absolute inset-0 w-full h-full object-cover object-[65%_25%] sm:object-center"
       >
-        <source src="/Vedio/hero.mp4" type="video/mp4" />
+        <source src="https://icons.exarpro.com/Vedio/hero.mp4" type="video/mp4" />
       </video>
 
       {/* Overlays */}

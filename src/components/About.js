@@ -105,7 +105,7 @@ export default function About() {
               }}
             >
               <Image
-                src="/Vedio/about.png"
+                src="https://icons.exarpro.com/Vedio/about.png"
                 alt="Dr. Muhammad Azhar Alam — Consultant Surgeon"
                 fill
                 className="object-cover object-top"

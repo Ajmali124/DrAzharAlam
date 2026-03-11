@@ -19,7 +19,7 @@ const jsonLd = {
       "name": "Dr. Muhammad Azhar Alam",
       "alternateName": ["Dr. Azhar Alam", "Dr Azhar Alam Lahore"],
       "description": "Consultant General & Laparoscopic Surgeon with 15+ years of experience. Expert in LASER Surgery, Minimally Invasive Surgery, Hernia Repair, Piles Treatment, Gallbladder Removal, Appendectomy, Breast Surgery, Thyroid Surgery, and more.",
-      "image": "https://drazharalam.com/Vedio/about.png",
+      "image": "https://icons.exarpro.com/Vedio/about.png",
       "url": "https://drazharalam.com",
       "telephone": "+923320761997",
       "email": "dr.azharalam@gmail.com",
