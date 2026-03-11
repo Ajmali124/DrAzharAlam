@@ -38,12 +38,37 @@ const platforms = [
 ];
 
 const tags = [
+  // Patient sentiment (Google verified)
   { tag: 'Cooperative', count: 12 },
   { tag: 'Compassionate', count: 11 },
   { tag: 'Careful listening', count: 4 },
   { tag: 'Attention to detail', count: 4 },
   { tag: 'Clean environment', count: 3 },
   { tag: 'Hygiene', count: 3 },
+  { tag: 'No Pain', count: 5 },
+  { tag: 'Quick Recovery', count: 7 },
+  { tag: 'Minimal Scarring', count: 4 },
+  { tag: 'Friendly Staff', count: 6 },
+  { tag: '100% Recommended', count: 9 },
+  { tag: 'Best in Lahore', count: 8 },
+  // Procedure tags
+  { tag: 'LASER Surgery', count: 15 },
+  { tag: 'Laparoscopic Expert', count: 13 },
+  { tag: 'Hernia Specialist', count: 6 },
+  { tag: 'Piles Treatment', count: 8 },
+  { tag: 'Gallbladder Removal', count: 5 },
+  { tag: 'Appendectomy', count: 4 },
+  { tag: 'Thyroid Surgery', count: 3 },
+  // Location tags
+  { tag: 'Noor Hospital Lahore', count: 20 },
+  { tag: 'Ferozepur Road', count: 10 },
+  { tag: 'Serving Gulberg', count: 5 },
+  { tag: 'Serving DHA', count: 4 },
+  { tag: 'Serving Model Town', count: 4 },
+  { tag: 'Serving Johar Town', count: 3 },
+  { tag: 'Serving Garden Town', count: 3 },
+  { tag: 'Serving Iqbal Town', count: 3 },
+  { tag: 'Serving Wapda Town', count: 2 },
 ];
 
 export default function Reviews() {

@@ -82,7 +82,7 @@ const categories = [
   {
     title: 'Specialized',
     tagline: 'Thyroid · Bariatric · Vascular',
-    image: '/Vedio/Specialized.png',
+    image: '/Vedio/Speacial.png',
     accent: '#6d28d9',
     accentLight: 'rgba(109,40,217,0.12)',
     services: [
@@ -214,8 +214,13 @@ function ServiceCard({ cat, index, total }) {
         <div className="px-4 pb-4 pt-1">
           <button
             onClick={() => setExpanded(!expanded)}
-            className="w-full flex items-center justify-center gap-1.5 py-2.5 rounded-xl text-[12px] font-semibold transition-all duration-200 active:scale-[0.98]"
-            style={{ background: cat.accentLight, color: cat.accent }}
+            className="w-full flex items-center justify-center gap-1.5 py-2.5 rounded-xl text-[12px] font-semibold transition-all duration-200 active:scale-[0.97]"
+            style={{
+              background: '#0a0f1a',
+              color: '#fff',
+              border: '1px solid rgba(255,255,255,0.08)',
+              boxShadow: '0 2px 8px rgba(0,0,0,0.25)',
+            }}
           >
             {expanded ? 'Show less' : `See all ${cat.services.length} procedures`}
             <ChevronDown
