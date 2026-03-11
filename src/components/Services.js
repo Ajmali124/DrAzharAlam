@@ -7,7 +7,7 @@ const categories = [
   {
     title: 'Laparoscopic Surgery',
     tagline: 'Minimally Invasive',
-    image: 'https://icons.exarpro.com/Vedio/Laparoscopic%20Surgery.png',
+    image: 'https://dr-azhar-alam.vercel.app/Vedio/Laparoscopic%20Surgery.png',
     accent: '#0C6478',
     accentLight: 'rgba(12,100,120,0.12)',
     services: [
