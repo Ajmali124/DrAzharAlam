@@ -55,7 +55,7 @@ export const metadata = {
       "Consultant General & Laparoscopic Surgeon. LASER Surgery Expert. Noor Hospital, Lahore. 4.9★ Google Rating.",
   },
   alternates: {
-    canonical: "https://drazharalam.com",
+    canonical: "https://dr-azhar-alam.vercel.app",
   },
 };
 

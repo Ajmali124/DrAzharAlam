@@ -7,7 +7,7 @@ const categories = [
   {
     title: 'Laparoscopic Surgery',
     tagline: 'Minimally Invasive',
-    image: 'https://dr-azhar-alam.vercel.app/Vedio/Laparoscopic%20Surgery.png',
+    image: '/Vedio/Laparoscopic Surgery.png',
     accent: '#0C6478',
     accentLight: 'rgba(12,100,120,0.12)',
     services: [
@@ -23,7 +23,7 @@ const categories = [
   {
     title: 'Breast Surgery',
     tagline: 'Oncological & Cosmetic',
-    image: 'https://icons.exarpro.com/Vedio/Breast%20Surgery.png',
+    image: '/Vedio/Breast Surgery.png',
     accent: '#be185d',
     accentLight: 'rgba(190,24,93,0.12)',
     services: [
@@ -38,7 +38,7 @@ const categories = [
   {
     title: 'Hernia Repair',
     tagline: 'Open & Laparoscopic',
-    image: 'https://icons.exarpro.com/Vedio/Hernia.png',
+    image: '/Vedio/Hernia.png',
     accent: '#1d4ed8',
     accentLight: 'rgba(29,78,216,0.12)',
     services: [
@@ -51,7 +51,7 @@ const categories = [
   {
     title: 'Proctology & LASER',
     tagline: 'Piles, Fissure, Fistula',
-    image: 'https://icons.exarpro.com/Vedio/Proctology%20LASER.png',
+    image: '/Vedio/Proctology LASER.png',
     accent: '#065f46',
     accentLight: 'rgba(6,95,70,0.12)',
     services: [
@@ -66,7 +66,7 @@ const categories = [
   {
     title: 'Abdominal Surgery',
     tagline: 'Comprehensive Care',
-    image: 'https://icons.exarpro.com/Vedio/Abdominal%20Surgery.png',
+    image: '/Vedio/Abdominal Surgery.png',
     accent: '#92400e',
     accentLight: 'rgba(146,64,14,0.12)',
     services: [
@@ -82,7 +82,7 @@ const categories = [
   {
     title: 'Specialized',
     tagline: 'Thyroid · Bariatric · Vascular',
-    image: 'https://icons.exarpro.com/Vedio/Speacial.png',
+    image: '/Vedio/Speacial.png',
     accent: '#6d28d9',
     accentLight: 'rgba(109,40,217,0.12)',
     services: [

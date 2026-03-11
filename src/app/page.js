@@ -15,12 +15,12 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Physician",
-      "@id": "https://drazharalam.com/#doctor",
+      "@id": "https://dr-azhar-alam.vercel.app/#doctor",
       "name": "Dr. Muhammad Azhar Alam",
       "alternateName": ["Dr. Azhar Alam", "Dr Azhar Alam Lahore"],
       "description": "Consultant General & Laparoscopic Surgeon with 15+ years of experience. Expert in LASER Surgery, Minimally Invasive Surgery, Hernia Repair, Piles Treatment, Gallbladder Removal, Appendectomy, Breast Surgery, Thyroid Surgery, and more.",
-      "image": "https://icons.exarpro.com/Vedio/about.png",
-      "url": "https://drazharalam.com",
+      "image": "https://dr-azhar-alam.vercel.app/Vedio/about.png",
+      "url": "https://dr-azhar-alam.vercel.app",
       "telephone": "+923320761997",
       "email": "dr.azharalam@gmail.com",
       "gender": "Male",
@@ -48,7 +48,7 @@ const jsonLd = {
       ],
       "worksFor": {
         "@type": "Hospital",
-        "@id": "https://drazharalam.com/#hospital",
+        "@id": "https://dr-azhar-alam.vercel.app/#hospital",
         "name": "Noor Hospital",
         "address": {
           "@type": "PostalAddress",
@@ -110,8 +110,8 @@ const jsonLd = {
     },
     {
       "@type": "WebSite",
-      "@id": "https://drazharalam.com/#website",
-      "url": "https://drazharalam.com",
+      "@id": "https://dr-azhar-alam.vercel.app/#website",
+      "url": "https://dr-azhar-alam.vercel.app",
       "name": "Dr. Azhar Alam — Consultant Surgeon Lahore",
       "description": "Official website of Dr. Muhammad Azhar Alam, Consultant General & Laparoscopic Surgeon at Noor Hospital, Lahore.",
       "inLanguage": "en-PK"
